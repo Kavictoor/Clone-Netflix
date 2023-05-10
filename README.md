@@ -1,5 +1,6 @@
 # Projeto Clone Netflix - Uninassau
 Link: https://kavictoor.github.io/trabalhoFacul/
+De uma olhada: https://kavictoor.github.io/Clone-Netflix/
 <p align="center">Esse projeto... </p>
 
 <p align="center">
